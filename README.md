@@ -40,18 +40,6 @@ My focus is simple:
 I enjoy working across the entire stack—from designing APIs and backend architecture to building polished frontend experiences.
 
 
-# Featured Projects
-
-| Project | Description | Stack |
-|----------|-------------|-------|
-| **SyncSpace** | Real-time collaborative workspace with authentication, live messaging, task management and cloud storage. | React • Node.js • MongoDB • Socket.io • AWS |
-| **FlowLedger** | Multi-tenant expense management SaaS with organization workspaces, approvals and analytics. | Angular • Node.js • PostgreSQL |
-| **WanderMate** | Full-stack travel booking platform with secure payments and real-time communication. | Next.js • Express • MongoDB • Stripe |
-| **AI Blog Generator** | AI-powered content generation platform using modern Python tooling. | Python |
-
----
-
-
 # Tech Stack
 
 <table>
@@ -172,6 +160,15 @@ I enjoy working across the entire stack—from designing APIs and backend archit
 </tr>
 
 </table>
+
+# Featured Projects
+
+| Project | Description | Stack |
+|----------|-------------|-------|
+| **SyncSpace** | Real-time collaborative workspace with authentication, live messaging, task management and cloud storage. | React • Node.js • MongoDB • Socket.io • AWS |
+| **FlowLedger** | Multi-tenant expense management SaaS with organization workspaces, approvals and analytics. | Angular • Node.js • PostgreSQL |
+| **WanderMate** | Full-stack travel booking platform with secure payments and real-time communication. | Next.js • Express • MongoDB • Stripe |
+| **AI Blog Generator** | AI-powered content generation platform using modern Python tooling. | Python |
 
 ---
 
