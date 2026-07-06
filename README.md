@@ -39,20 +39,6 @@ My focus is simple:
 
 I enjoy working across the entire stack—from designing APIs and backend architecture to building polished frontend experiences.
 
----
-
-# Engineering Philosophy
-
-> Software should be easy to understand before it is clever.
-
-- Scalable architecture over quick fixes
-- Simplicity over unnecessary complexity
-- Performance is a feature
-- Security is never optional
-- Great developer experience creates better software
-- Build once. Maintain for years.
-
----
 
 # Featured Projects
 
@@ -67,11 +53,126 @@ I enjoy working across the entire stack—from designing APIs and backend archit
 
 # Tech Stack
 
-<div align="center">
+# Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,ts,js,python,mongodb,postgres,aws,docker,git,github,redux,tailwind,html,css,vscode&perline=10"/>
+<table>
+<tr>
+<td align="center" width="110">
 
-</div>
+<img src="https://skillicons.dev/icons?i=js" width="45"/><br>
+<b>JavaScript</b>
+
+</td>
+
+<td align="center" width="110">
+
+<img src="https://skillicons.dev/icons?i=ts" width="45"/><br>
+<b>TypeScript</b>
+
+</td>
+
+<td align="center" width="110">
+
+<img src="https://skillicons.dev/icons?i=python" width="45"/><br>
+<b>Python</b>
+
+</td>
+
+<td align="center" width="110">
+
+<img src="https://skillicons.dev/icons?i=react" width="45"/><br>
+<b>React</b>
+
+</td>
+
+<td align="center" width="110">
+
+<img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>
+<b>Next.js</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=angular" width="45"/><br>
+<b>Angular</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>
+<b>Node.js</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=express" width="45"/><br>
+<b>Express.js</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>
+<b>MongoDB</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>
+<b>PostgreSQL</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=redux" width="45"/><br>
+<b>Redux</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>
+<b>Tailwind CSS</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=aws" width="45"/><br>
+<b>AWS</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="45"/><br>
+<b>Git</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="45"/><br>
+<b>GitHub</b>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -83,49 +184,7 @@ I enjoy working across the entire stack—from designing APIs and backend archit
 - Real-time collaborative systems
 - Cloud-native full-stack applications
 
----
 
-# Open Source
-
-Although most of my professional work is private, I actively build personal products and production-ready projects to experiment with architecture, performance, developer tooling and modern web technologies.
-
-Pinned repositories include:
-
-- 🚀 SyncSpace
-- 💰 FlowLedger
-- ✈️ WanderMate
-- 🤖 AI Blog Generator
-- 🌐 Portfolio Website
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivam13-tech&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam13-tech&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shivam13-tech&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam13-tech&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
 
 # What I Enjoy Building
 
@@ -139,6 +198,21 @@ Pinned repositories include:
 - Authentication Systems
 - Real-time Applications
 - Modern UI Experiences
+
+---
+
+---
+
+# Engineering Believes
+
+> Software should be easy to understand before it is clever.
+
+- Scalable architecture over quick fixes
+- Simplicity over unnecessary complexity
+- Performance is a feature
+- Security is never optional
+- Great developer experience creates better software
+- Build once. Maintain for years.
 
 ---
 
@@ -163,11 +237,5 @@ Email
 </div>
 
 ---
-
-<div align="center">
-
-*"Good software is invisible. It lets people focus on what they came to accomplish—not on the software itself."*
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:0f172a,40:2563eb,100:38bdf8&height=140"/>
