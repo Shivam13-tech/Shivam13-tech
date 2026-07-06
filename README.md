@@ -1,142 +1,173 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1D2439,100:6C63FF&height=230&section=header&text=Shivam%20Pandey&fontSize=44&fontColor=EDEEF3&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20Interfaces%20to%20Infrastructure&descAlignY=58&descSize=18&descColor=FFB454" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,40:2563eb,100:38bdf8&text=Shivam%20Pandey&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20Enterprise%20Applications%20•%20SaaS%20Products&descSize=20&descAlignY=60&animation=fadeIn"/>
 
-<br/>
+<br>
 
-<a href="https://portfolio-website-seven-chi-59.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/shivampandey98"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-FFB454?style=flat-square&logo=gmail&logoColor=black" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real+business+problems.;Enterprise+Fintech+%7C+SaaS+Products+%7C+Cloud.;React+%7C+Angular+%7C+Node.js+%7C+TypeScript.;4%2B+Years+of+Production+Engineering."/>
+
+<br><br>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:Shivampandey19981313@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-## About
+# About
 
-I build full-stack products end-to-end — from the UI a user clicks on to the backend systems and databases that keep it running. Currently an **Assistant Manager, IT Development at SMFG India Credit**, where I've shipped platforms handling 25,000+ monthly users, ₹200+ Cr in annual transactions, and 8,000+ managed devices across enterprise systems.
+I build production-grade web applications that solve real business problems.
 
-Before that, I built products across startups and freelance work — real-time collaboration tools, video/audio systems, and crypto learning platforms.
+Over the last four years I've worked across enterprise fintech, remote SaaS teams and freelance consulting, delivering software used by thousands of users and supporting large-scale business operations.
 
-I care about writing code that's easy for the next person (often future-me) to read, and about shipping things that actually get used.
+My focus is simple:
 
-<br/>
+- Build scalable systems
+- Write maintainable code
+- Keep architecture clean
+- Deliver products users actually enjoy using
 
-## Stack
+I enjoy working across the entire stack—from designing APIs and backend architecture to building polished frontend experiences.
 
-<table>
-<tr>
-<td valign="top" width="50%">
+---
 
-**Frontend**
-```
-React · Angular · Redux
-TypeScript · Tailwind CSS
-```
+# Engineering Philosophy
 
-**Backend**
-```
-Node.js · Express.js · Django
-GraphQL · REST APIs
-```
+> Software should be easy to understand before it is clever.
 
-</td>
-<td valign="top" width="50%">
+- Scalable architecture over quick fixes
+- Simplicity over unnecessary complexity
+- Performance is a feature
+- Security is never optional
+- Great developer experience creates better software
+- Build once. Maintain for years.
 
-**Data**
-```
-MongoDB · PostgreSQL
-```
+---
 
-**Cloud & Tooling**
-```
-AWS · Docker · Git
-```
+# Featured Projects
 
-</td>
-</tr>
-</table>
+| Project | Description | Stack |
+|----------|-------------|-------|
+| **SyncSpace** | Real-time collaborative workspace with authentication, live messaging, task management and cloud storage. | React • Node.js • MongoDB • Socket.io • AWS |
+| **FlowLedger** | Multi-tenant expense management SaaS with organization workspaces, approvals and analytics. | Angular • Node.js • PostgreSQL |
+| **WanderMate** | Full-stack travel booking platform with secure payments and real-time communication. | Next.js • Express • MongoDB • Stripe |
+| **AI Blog Generator** | AI-powered content generation platform using modern Python tooling. | Python |
 
-<br/>
+---
 
-## Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>FlowLedger</h3>
-
-A full-stack ledger / finance-tracking application with authentication and real-time data sync.
-
-`React` `Node.js` `MongoDB`
-
-[Repository →](https://github.com/Shivam13-tech/FlowLedger-frontend)
-
-</td>
-<td width="50%" valign="top">
-<h3>SyncSpace</h3>
-
-Real-time collaborative workspace enabling shared editing and live updates across users.
-
-`React` `WebSocket` `Node.js`
-
-[Repository →](https://github.com/Shivam13-tech/SyncSpace-frontend)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>WanderMate</h3>
-
-Travel planning app for discovering, organizing, and sharing trip itineraries.
-
-`React` `REST APIs`
-
-[Repository →](https://github.com/Shivam13-tech/wandermate-frontend)
-
-</td>
-<td width="50%" valign="top">
-<h3>AI Blog Generator</h3>
-
-Generates structured, ready-to-publish blog content from simple prompts.
-
-`Python` `LLM Integration`
-
-[Repository →](https://github.com/Shivam13-tech/Ai-blog-generator)
-
-</td>
-</tr>
-</table>
-
-> **Note:** add a screenshot or short GIF to each project's own README — that single change does more for credibility here than any badge.
-
-<br/>
-
-## At Work
-
-Selected impact from my current role at **SMFG India Credit**:
-
-- Built a bank auction property portal (Angular · Node · Express · MongoDB) — 25,000+ monthly users
-- Built **eConsent**, an insurance/loan platform integrated with HDFC & ICICI — ₹200+ Cr annual transaction volume
-- Built an internal ID management platform (MEAN stack) — 1,500+ business partners onboarded
-- Built an eKYC device management system — 8,000+ devices across 500+ branches
-- Recognized for contributions supporting ₹10,000+ Cr AUM growth in 2025
-
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shivam13-tech&show_icons=true&hide_border=true&hide_title=true&bg_color=0B0F19&title_color=6C63FF&icon_color=FFB454&text_color=EDEEF3" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam13-tech&layout=compact&hide_border=true&bg_color=0B0F19&title_color=6C63FF&text_color=EDEEF3" width="35%" />
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0B0F19&height=100&section=footer" width="100%" />
+# Tech Stack
 
 <div align="center">
 
-Open to interesting problems and good teams — reach out anytime.
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,ts,js,python,mongodb,postgres,aws,docker,git,github,redux,tailwind,html,css,vscode&perline=10"/>
 
 </div>
+
+---
+
+# Currently Building
+
+- Enterprise web applications
+- Modern SaaS platforms
+- Secure REST APIs
+- Real-time collaborative systems
+- Cloud-native full-stack applications
+
+---
+
+# Open Source
+
+Although most of my professional work is private, I actively build personal products and production-ready projects to experiment with architecture, performance, developer tooling and modern web technologies.
+
+Pinned repositories include:
+
+- 🚀 SyncSpace
+- 💰 FlowLedger
+- ✈️ WanderMate
+- 🤖 AI Blog Generator
+- 🌐 Portfolio Website
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivam13-tech&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam13-tech&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shivam13-tech&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam13-tech&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# What I Enjoy Building
+
+- Enterprise Platforms
+- SaaS Products
+- Financial Systems
+- Dashboard Applications
+- Developer Tools
+- Workflow Automation
+- REST APIs
+- Authentication Systems
+- Real-time Applications
+- Modern UI Experiences
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+<a href="YOUR_PORTFOLIO_URL">
+Portfolio
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="YOUR_LINKEDIN_URL">
+LinkedIn
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="mailto:Shivampandey19981313@gmail.com">
+Email
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Good software is invisible. It lets people focus on what they came to accomplish—not on the software itself."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:0f172a,40:2563eb,100:38bdf8&height=140"/>
