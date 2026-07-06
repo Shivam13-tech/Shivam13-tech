@@ -30,7 +30,7 @@ I build production-grade web applications that solve real business problems.
 
 Over the last four years I've worked across enterprise fintech, remote SaaS teams and freelance consulting, delivering software used by thousands of users and supporting large-scale business operations.
 
-My focus is simple:
+My approach is simple:
 
 - Build scalable systems
 - Write maintainable code
@@ -174,11 +174,15 @@ I enjoy working across the entire stack—from designing APIs and backend archit
 
 # Currently Building
 
-- Enterprise web applications
-- Modern SaaS platforms
-- Secure REST APIs
-- Real-time collaborative systems
-- Cloud-native full-stack applications
+• Enterprise Financial Platforms
+
+• Multi-tenant SaaS Applications
+
+• Secure REST APIs
+
+• Cloud-native Architectures
+
+• Real-time Collaboration Systems
 
 
 
@@ -197,7 +201,7 @@ I enjoy working across the entire stack—from designing APIs and backend archit
 
 ---
 
-# Engineering Believe
+# Engineering Principles
 
 - Scalable architecture over quick fixes
 - Simplicity over unnecessary complexity
