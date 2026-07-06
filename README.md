@@ -99,26 +99,11 @@ AI-powered tool that generates structured blog content from simple prompts.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shivam13-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam13-tech&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam13-tech&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-
-</div>
-
----
-
 <div align="center">
 
 **Let's connect and build something great.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-1e3c72?style=flat-square)](https://portfolio-website-seven-chi-59.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivampandey98)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shivam13-tech&color=1e3c72&style=flat-square)
 
 </div>
