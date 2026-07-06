@@ -1,109 +1,142 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Shivam%20Pandey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2F%20MEAN%20%7C%20TypeScript&descAlignY=55&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1D2439,100:6C63FF&height=230&section=header&text=Shivam%20Pandey&fontSize=44&fontColor=EDEEF3&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20Interfaces%20to%20Infrastructure&descAlignY=58&descSize=18&descColor=FFB454" width="100%" />
 
-### Turning ideas into working software 🚀
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-seven-chi-59.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivampandey98)
-
-</div>
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-**Database & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<a href="https://portfolio-website-seven-chi-59.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/shivampandey98"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-FFB454?style=flat-square&logo=gmail&logoColor=black" /></a>
 
 </div>
 
----
+<br/>
 
-### 🚀 Featured Projects
+## About
+
+I build full-stack products end-to-end — from the UI a user clicks on to the backend systems and databases that keep it running. Currently an **Assistant Manager, IT Development at SMFG India Credit**, where I've shipped platforms handling 25,000+ monthly users, ₹200+ Cr in annual transactions, and 8,000+ managed devices across enterprise systems.
+
+Before that, I built products across startups and freelance work — real-time collaboration tools, video/audio systems, and crypto learning platforms.
+
+I care about writing code that's easy for the next person (often future-me) to read, and about shipping things that actually get used.
+
+<br/>
+
+## Stack
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-**💰 FlowLedger**
-Full-stack ledger / finance tracking application with authentication and real-time data sync.
+**Frontend**
+```
+React · Angular · Redux
+TypeScript · Tailwind CSS
+```
 
-`React` `Node.js` `MongoDB`
-
-[View Repo →](https://github.com/Shivam13-tech/FlowLedger-frontend)
-
-</td>
-<td width="50%">
-
-**🔄 SyncSpace**
-Real-time collaborative workspace app enabling shared editing and live updates across users.
-
-`React` `WebSocket` `Node.js`
-
-[View Repo →](https://github.com/Shivam13-tech/SyncSpace-frontend)
+**Backend**
+```
+Node.js · Express.js · Django
+GraphQL · REST APIs
+```
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-**✈️ WanderMate**
-Travel planning app to discover, organize, and share trip itineraries.
+**Data**
+```
+MongoDB · PostgreSQL
+```
 
-`React` `REST APIs`
-
-[View Repo →](https://github.com/Shivam13-tech/wandermate-frontend)
-
-</td>
-<td width="50%">
-
-**✍️ AI Blog Generator**
-AI-powered tool that generates structured blog content from simple prompts.
-
-`Python` `AI/LLM Integration`
-
-[View Repo →](https://github.com/Shivam13-tech/Ai-blog-generator)
+**Cloud & Tooling**
+```
+AWS · Docker · Git
+```
 
 </td>
 </tr>
 </table>
 
----
+<br/>
+
+## Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>FlowLedger</h3>
+
+A full-stack ledger / finance-tracking application with authentication and real-time data sync.
+
+`React` `Node.js` `MongoDB`
+
+[Repository →](https://github.com/Shivam13-tech/FlowLedger-frontend)
+
+</td>
+<td width="50%" valign="top">
+<h3>SyncSpace</h3>
+
+Real-time collaborative workspace enabling shared editing and live updates across users.
+
+`React` `WebSocket` `Node.js`
+
+[Repository →](https://github.com/Shivam13-tech/SyncSpace-frontend)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>WanderMate</h3>
+
+Travel planning app for discovering, organizing, and sharing trip itineraries.
+
+`React` `REST APIs`
+
+[Repository →](https://github.com/Shivam13-tech/wandermate-frontend)
+
+</td>
+<td width="50%" valign="top">
+<h3>AI Blog Generator</h3>
+
+Generates structured, ready-to-publish blog content from simple prompts.
+
+`Python` `LLM Integration`
+
+[Repository →](https://github.com/Shivam13-tech/Ai-blog-generator)
+
+</td>
+</tr>
+</table>
+
+> **Note:** add a screenshot or short GIF to each project's own README — that single change does more for credibility here than any badge.
+
+<br/>
+
+## At Work
+
+Selected impact from my current role at **SMFG India Credit**:
+
+- Built a bank auction property portal (Angular · Node · Express · MongoDB) — 25,000+ monthly users
+- Built **eConsent**, an insurance/loan platform integrated with HDFC & ICICI — ₹200+ Cr annual transaction volume
+- Built an internal ID management platform (MEAN stack) — 1,500+ business partners onboarded
+- Built an eKYC device management system — 8,000+ devices across 500+ branches
+- Recognized for contributions supporting ₹10,000+ Cr AUM growth in 2025
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shivam13-tech&show_icons=true&hide_border=true&hide_title=true&bg_color=0B0F19&title_color=6C63FF&icon_color=FFB454&text_color=EDEEF3" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam13-tech&layout=compact&hide_border=true&bg_color=0B0F19&title_color=6C63FF&text_color=EDEEF3" width="35%" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0B0F19&height=100&section=footer" width="100%" />
 
 <div align="center">
 
-**Let's connect and build something great.**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-1e3c72?style=flat-square)](https://portfolio-website-seven-chi-59.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivampandey98)
+Open to interesting problems and good teams — reach out anytime.
 
 </div>
