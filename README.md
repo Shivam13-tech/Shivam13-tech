@@ -51,7 +51,6 @@ I enjoy working across the entire stack—from designing APIs and backend archit
 
 ---
 
-# Tech Stack
 
 # Tech Stack
 
@@ -201,11 +200,7 @@ I enjoy working across the entire stack—from designing APIs and backend archit
 
 ---
 
----
-
-# Engineering Believes
-
-> Software should be easy to understand before it is clever.
+# Engineering Believe
 
 - Scalable architecture over quick fixes
 - Simplicity over unnecessary complexity
@@ -214,7 +209,6 @@ I enjoy working across the entire stack—from designing APIs and backend archit
 - Great developer experience creates better software
 - Build once. Maintain for years.
 
----
 
 # Let's Connect
 
@@ -236,6 +230,5 @@ Email
 
 </div>
 
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:0f172a,40:2563eb,100:38bdf8&height=140"/>
